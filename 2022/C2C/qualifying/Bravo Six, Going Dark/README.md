@@ -22,7 +22,7 @@
 Need to pay very close attention to the footage and watch it slowly, frame by frame, searching for possible clues.
 
 ```shell
-ffmpeg -ss 00:00 -i ./DJI_0030.MP4.mp4 -t 05:00 ./frames/filename%05d.png # Split video to frames
+$ ffmpeg -ss 00:00 -i ./DJI_0030.MP4.mp4 -t 05:00 ./frames/filename%05d.png # Split video to frames
 ```
 
 Noticed Selvatica on the left of the building, and a phone number on the right: 9354 1700.\
