@@ -1,4 +1,4 @@
-# Raid I - They said dat it couldn’t be done
+# Raid I
 
 **Title**
 > Raid I - They said dat it couldn’t be done
@@ -46,7 +46,7 @@ Oopsie 🙃
 ## Flag
 FLAG{1SZCH8F4T2DNPK}
 
-# Raid II - Moar Powah
+# Raid II
 
 **Title**
 > Raid II - Moar Powah
@@ -72,7 +72,7 @@ Mentioned in the previous challenge, we can see that the serial number of the ba
 ## Flag
 FLAG{1U5X07WEXP000R}
 
-# Raid III - Groundhog day
+# Raid III
 
 **Title**
 > Raid III - Groundhog day
@@ -105,7 +105,7 @@ Mavic Mini (wm160)	15-Aug-2020
 ## Flag
 FLAG{dji-mavic-mini-15-08-2020}
 
-# Raid IV - Geoguesser
+# Raid IV
 
 **Title**
 > Raid IV - Geoguesser
@@ -136,7 +136,7 @@ Therefore, Melbourne, Australia.
 ## FLAG
 FLAG{melbourne, australia}
 
-# Raid V - Snap n Send it
+# Raid V
 
 **Title**
 > Raid V - Snap n Send it
@@ -167,7 +167,7 @@ After inspecting both csv files, the date of the oldest flight log (in the `GPS:
 ## Flag
 FLAG{30/10/2020}
 
-# Raid VI - Send n Snap it
+# Raid VI
 
 **Title**
 > Raid VI - Send n Snap it
@@ -193,7 +193,7 @@ Again, looked at both csv files, and found the date of the most recent flight lo
 ## Flag
 FLAG{15/05/2021}
 
-# Raid VII - Ruffle My Rotors
+# Raid VII
 
 **Title**
 > Raid VII - Ruffle My Rotors
@@ -225,7 +225,7 @@ So I tried FLAG{north} and it worked! 🥳
 ## Flag
 FLAG{north}
 
-# Raid VIII - Mayday
+# Raid VIII
 
 **Title**
 > Raid VIII - Mayday
