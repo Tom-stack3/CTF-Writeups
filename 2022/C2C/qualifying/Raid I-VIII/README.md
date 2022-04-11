@@ -246,9 +246,9 @@ FLAG{north}
 > seized drone contents.zip
 
 ## Solution
-- ran out of battery: no. checked the "BatteryInfo:CapPercentage:D" column in the drone's flight log.
-- entered no-fly-zone: probably not, after looking in the map, the drone basically flew over the same area for the whole flight.
-- drifted away by wind: no. the wind speed was very low, so it was not a drift away.
+- Ran out of battery: no. checked the "BatteryInfo:CapPercentage:D" column in the drone's flight log.
+- Entered no-fly-zone: probably not, after looking in the map, the drone basically flew over the same area for the whole flight.
+- Drifted away by wind: no. the wind speed was very low, so it was not a drift away.
 
 I used the CsvView tool to look at the drone's path.
 
