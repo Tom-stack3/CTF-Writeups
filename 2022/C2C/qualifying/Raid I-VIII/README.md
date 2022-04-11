@@ -19,8 +19,8 @@
 > seized drone contents.zip
 
 ## Solution
-At first I didn't know how to read the data of the SD card.
-After some research I found the following thread: https://mavicpilots.com/threads/logs-inside-the-sd-card-i-want-to-know.91756/,
+At first I didn't know how to read the data of the SD card.\
+After some research I found the following thread: https://mavicpilots.com/threads/logs-inside-the-sd-card-i-want-to-know.91756/.\
 So I downloaded DatCon and CsvView on an old windows machine and changed the log files extension to `.DAT`.
 
 By opening the camera_log file in the CsvView program, we get the mcId of the drone, which is: 1SDCH87016BMZQ.
@@ -42,6 +42,9 @@ After checking in http://tools.retroroms.info/, `1SZCH8F4T2DNPK` is indeed the s
 I guess that we solved two challenges, at the same time.
 
 Oopsie 🙃
+
+Fun fact:\
+After the CTF has ended, @joel10 mentioned the fact that the title of this challenge hinted that those are `.DAT` files.
 
 ## Flag
 FLAG{1SZCH8F4T2DNPK}
