@@ -41,8 +41,8 @@ The owner of the cafe is Giovanni Trione. Now let's do some professional stalkin
 His email address is gtrione@gmail.com.
 
 Found his facebook and twitter accounts:
-https://www.facebook.com/giovanni.trione.14
-https://mobile.twitter.com/giovannitrione/
+- https://www.facebook.com/giovanni.trione.14
+- https://mobile.twitter.com/giovannitrione/
 
 After digging for a while, found his phone number in a comment he made on facebook:
 https://www.facebook.com/ziogiannicoffeshop/photos/hire-our-terrace-and-enjoy-your-parties-in-the-park/1450733708490441/
